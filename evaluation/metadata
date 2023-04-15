@@ -1,0 +1,2 @@
+command: python $program/evaluation.py $input $output
+description: WASSA 2023 Multi-Label and Multi-Class Emotion Classification on Code-Mixed Text Messages Shared Task evaluation program.
